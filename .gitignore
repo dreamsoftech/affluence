@@ -21,4 +21,6 @@ db/schema.rb
 config/database.yml
 coverage/
 public/system/
-
+config/twilio.yml
+config/mail_chimp.yml
+config/oauth_services.yml
